@@ -5,3 +5,4 @@ Short notes on current tech and AI developments, written in my own words with so
 ## Index
 
 - 2026-10-11 — [Meta and Sierra propose an open standard for AI agents that act for customers](notes/2026-10-11-personal-agent-protocol.md)
+- 2026-10-12 — [Claude Opus 5.5: a cheaper flagship, and what the numbers do (and don't) show](notes/2026-10-12-opus-5-5-pricing.md)
