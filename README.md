@@ -8,3 +8,4 @@ Short notes on current tech and AI developments, written in my own words with so
 - 2026-10-12 — [Claude Opus 5.5: a cheaper flagship, and what the numbers do (and don't) show](notes/2026-10-12-opus-5-5-pricing.md)
 - 2026-10-13 — [Python 3.15 is out: lazy imports, frozendict and a built-in sampling profiler](notes/2026-10-13-python-3-15.md)
 - 2026-10-14 — [List vs set membership in Python: I measured how fast the gap grows](notes/2026-10-14-list-vs-set-lookup.md)
+- 2026-10-15 — [Early October model releases: who shipped open weights, and who kept it closed](notes/2026-10-15-open-weights-early-october.md)
